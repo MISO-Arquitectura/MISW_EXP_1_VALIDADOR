@@ -1,4 +1,4 @@
-from MISW_EXP_1_VALIDADOR_API import create_app
+from MISW_EXP_1_VALIDADOR import create_app
 from flask_restful import Resource, Api
 from flask import Flask, request
 from random import random, randint
